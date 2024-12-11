@@ -1,0 +1,9 @@
+br\com\gustavoclementediniz\dukemarket\javafx\model\Produto.class
+br\com\gustavoclementediniz\dukemarket\javafx\App.class
+br\com\gustavoclementediniz\dukemarket\javafx\controller\ScrProdutosController.class
+br\com\gustavoclementediniz\dukemarket\javafx\controller\MenuPrincipalController.class
+br\com\gustavoclementediniz\dukemarket\javafx\SecondaryController.class
+br\com\gustavoclementediniz\dukemarket\javafx\PrimaryController.class
+br\com\gustavoclementediniz\dukemarket\javafx\DAO\ProdutoDAO.class
+module-info.class
+connection\MySQLConnection.class
